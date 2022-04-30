@@ -46,6 +46,10 @@ section{
     min-height: 100vh;
     padding:1rem;
 }
+section#project
+{
+    margin-bottom: -190px;
+}
 
 .btn{
     padding:.7rem 3rem;
